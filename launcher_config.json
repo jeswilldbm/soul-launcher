@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "14.05.00001",
+	"clientVersion": "14.05.00002",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Soul",
-	"newClientUrl" : "https://github.com/jeswilldbm/Soul-Client/releases/download/V1.5/Soul.zip",
+	"newClientUrl" : "https://github.com/jeswilldbm/Soul-Client/releases/download/V1.6/Soul.zip",
 	"clientExecutable": "client.exe"
 }
